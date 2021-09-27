@@ -15,6 +15,7 @@ It is written in Python 3.9. It is currently tested & working on openSUSE Tumble
 * Why not use [vrms-rpm](https://github.com/suve/vrms-rpm)? Why clone it?
 .* For two reasons. Firstly, vrms-rpm is written in C, which is unnecessary for a program doing high level operations.
    Secondly, that implementation uses literal strings to designate approved licenses. For example:
+  (do this)
 
 
 
