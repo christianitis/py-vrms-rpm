@@ -10,10 +10,10 @@ It is written in Python 3.9. It is currently tested & working on openSUSE Tumble
 
 ### FAQ
 * Why not a fork of Debian's VRMS?
-⋅⋅* Porting VRMS from .deb based systems to .rpm based systems would take a lot of work. And as my Perl skills are
+** Porting VRMS from .deb based systems to .rpm based systems would take a lot of work. And as my Perl skills are
     limited, I figured it would be easier to simply rewrite it myself in Python.
 * Why not use [vrms-rpm](https://github.com/suve/vrms-rpm)? Why clone it?
-⋅⋅* For two reasons. Firstly, vrms-rpm is written in C, which is unnecessary for a program doing high level operations.
+** For two reasons. Firstly, vrms-rpm is written in C, which is unnecessary for a program doing high level operations.
    Secondly, that implementation uses literal strings to designate approved licenses. For example:
   (do this)
 
