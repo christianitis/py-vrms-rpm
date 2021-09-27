@@ -1,3 +1,4 @@
+#     py-vrms-rpm: A program for analyzing and listing license files on RPM based machines.
 #     Copyright 2021 Christian Hollinger
 #
 #     This program is free software: you can redistribute it and/or modify
