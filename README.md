@@ -29,6 +29,3 @@ than, say; GPL3). py-vrms-rpm takes a different approach: instead of using liter
 "GPL" and "MIT") to determine if the package is free. Similarly, it also uses keywords such as "FIRMWARE" or "PROPRIETARY"
 to determine if a package is non-free. This avoids many of the problems associated with using literal strings for
 licenses.
-
-
-
