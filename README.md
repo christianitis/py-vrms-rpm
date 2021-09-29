@@ -1,6 +1,6 @@
 # py-vrms-rpm
 ## A program for analyzing and listing the software licenses of installed RPM packages.
-[Project Github](https://github.com/christianitus03/py-vrms-rpm)
+[Project Github](https://github.com/christianitis/py-vrms-rpm)
 
 ### About
 py-vrms-rpm aims to replicate some of the core features of Debian's _vrms_ program, but for RPM based systems.
