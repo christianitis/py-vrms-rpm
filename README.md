@@ -26,7 +26,7 @@ limited, I figured it would be easier to simply rewrite it myself in Python.
 * Why not use [vrms-rpm](https://github.com/suve/vrms-rpm)? Why clone it?
 
 Don't get me wrong: I find that project very commendable. However, I have two reasons for creating a seperate program.
-Firstly, vrms-rpm is written in C, which is unproductive for a program performing high level operations.
+Firstly, vrms-rpm is written in C, which is unproductive for a program performing high level operations (such as text processing).
 Secondly, that implementation uses literal strings to designate approved licenses. For example, a package with
 the license text **GPL3-0 AND MIT** may not work because of case sensitivity or a "malformed" license string (GPL3-0 rather
 than, say; GPL3). py-vrms-rpm takes a different approach: instead of using literal strings, it uses keywords (such as
