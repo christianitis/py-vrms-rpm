@@ -16,7 +16,7 @@ Please read the included COPYING file for license information.
 * You may also need to install the python3-rpm package via your system's native package manager.
 
 ### FAQ
-**Usage:** python3 py-vrms.py
+**Usage:** python3 py-vrms-rpm.py
 
 * Why not a fork of Debian's VRMS?
 
